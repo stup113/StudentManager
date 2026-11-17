@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Student Manager</string>
+
+    <!-- List screen -->
+    <string name="search_hint">Search by name, ID or email</string>
+    <string name="empty_list">No students yet. Tap "Add student" to create one.</string>
+    <string name="no_results">No matching students found.</string>
+    <string name="add_student">Add student</string>
+
+    <!-- Detail screen -->
+    <string name="student_detail">Student details</string>
+    <string name="student_not_found">Student not found.</string>
+
+    <!-- Form screen -->
+    <string name="add_student_title">Add new student</string>
+    <string name="edit_student_title">Edit student</string>
+    <string name="full_name">Full name</string>
+    <string name="student_code">Student ID</string>
+    <string name="email">Email</string>
+    <string name="avatar_url">Avatar image link (URL)</string>
+    <string name="pick_from_device">Choose from device</string>
+    <string name="avatar_from_device">Image selected from device</string>
+    <string name="remove_avatar">Remove</string>
+
+    <!-- Actions -->
+    <string name="edit">Edit</string>
+    <string name="delete">Delete</string>
+    <string name="save">Save</string>
+    <string name="cancel">Cancel</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="back">Back</string>
+
+    <!-- Confirmation dialogs -->
+    <string name="confirm_title">Confirm</string>
+    <string name="confirm_edit_message">Do you want to update this student\'s information?</string>
+    <string name="confirm_delete_message">Do you want to delete this student\'s information?</string>
+
+    <!-- Validation -->
+    <string name="error_required">This field is required</string>
+    <string name="error_email_invalid">Invalid email address</string>
+    <string name="error_code_taken">This student ID already exists</string>
+
+    <!-- Messages -->
+    <string name="msg_added">Student added</string>
+    <string name="msg_updated">Student updated</string>
+    <string name="msg_deleted">Student deleted</string>
+</resources>
